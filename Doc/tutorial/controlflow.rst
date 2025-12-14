@@ -13,7 +13,7 @@ that we will encounter in this chapter.
 :keyword:`!if` Statements
 =========================
 
-Perhaps the most well-known statement type is the :keyword:`if` statement.  For
+Perhaps the most well-known statement type is the :keyword:`if` statement.For
 example::
 
    >>> x = int(input("Please enter an integer: "))
